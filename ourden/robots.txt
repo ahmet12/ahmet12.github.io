@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /ourden/
+Sitemap: https://ahmet12.github.io/ourden/sitemap.xml

@@ -10,6 +10,6 @@ Keep durable planning and verification records there.
 - Existing game privacy/support pages use `styles.css`. Preserve their URLs and legal text during homepage work.
 - Preserve the Google site verification HTML file at the site root.
 - Use the products' established marks and names; font license files ship under `assets/fonts/`.
-- Verify product URLs and release status before adding download links. Ourden's site is pending; do not link an unreachable site or a private staging URL.
+- Ourden's public privacy, help and account deletion pages live under `/ourden/`, with English versions under `/ourden/en/`. The source and Turkish PDFs are maintained in the Ourden repository. Check product availability separately before adding store download links.
 - Check narrow/mobile and desktop layouts, internal links, existing support pages, and verification-file availability before publishing.
 - Keep captures, logs, credentials, and transient evidence outside this public repository.
