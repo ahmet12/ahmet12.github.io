@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ahmet12.github.io/sitemap.xml
+Sitemap: https://kylindravia.com/sitemap.xml
