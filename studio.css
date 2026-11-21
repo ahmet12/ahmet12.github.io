@@ -115,7 +115,7 @@ h2 { font-size: clamp(34px, 3.5vw, 47px); letter-spacing: -.04em; line-height: 1
 .emblem-kesisim::before { width: 1px; height: 78px; top: 17px; }
 .emblem-kesisim::after { height: 1px; width: 72px; left: 16px; }
 .emblem-kesisim span { font-family: var(--serif); font-size: 30px; line-height: 1; }
-.emblem-iskele img { width: 100%; height: 100%; object-fit: cover; }
+.emblem-kipir img, .emblem-iskele img { width: 100%; height: 100%; object-fit: cover; }
 .game-kind { font-size: 10px; text-transform: uppercase; font-weight: 600; letter-spacing: .1em; color: var(--muted); }
 .game-copy h3 { font-size: 30px; line-height: 1.2; letter-spacing: -.03em; margin-top: 4px; }
 .game-copy > p { max-width: 505px; font-size: 14px; color: #535d55; line-height: 1.8; margin-top: 9px; }
