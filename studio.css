@@ -81,6 +81,7 @@ h2 { font-size: clamp(34px, 3.5vw, 47px); letter-spacing: -.04em; line-height: 1
 .fyd-art { color: #173e35; background: #dce3d2; }
 .fyd-art::before { content: ""; position: absolute; width: 310px; height: 310px; background: #eaeedc; border: 1px solid #173e3510; border-radius: 50%; top: -110px; right: -100px; }
 .fyd-art::after { content: ""; position: absolute; width: 240px; height: 240px; border: 1px solid #173e3512; border-radius: 50%; bottom: -150px; left: -70px; }
+.signet-art { background: #e1eadb; justify-content: center; }
 .day-circle { position: absolute; top: 53px; width: 166px; height: 166px; border-radius: 50%; display: grid; place-items: center; border: 1px solid #173e351c; }
 .day-circle img { width: 160px; }
 .app-copy { padding: 26px 0 0; }
